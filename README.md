@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone
+
+Just trying to get started with my personal portfolio!
